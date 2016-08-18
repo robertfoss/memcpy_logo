@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width="0"
+   fill-rule="evenodd"
+   width="13.89848mm"
+   height="5.92328mm"
+   viewBox="81650.76 -104111.64 13898.48 5923.28"
+   id="logo-F.Cu"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo_wip.svg">
+  <metadata
+     id="metadata108">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2056"
+     inkscape:window-height="1376"
+     id="namedview106"
+     showgrid="false"
+     inkscape:zoom="18.953212"
+     inkscape:cx="12.032184"
+     inkscape:cy="-0.69357533"
+     inkscape:window-x="674"
+     inkscape:window-y="250"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3">
+    <rect
+       x="-173.99"
+       y="-574.04"
+       width="347.98"
+       height="1148.08"
+       rx="173.99"
+       ry="173.99"
+       id="logo-F.Cu_pad-11" />
+    <rect
+       x="-574.04"
+       y="-173.99"
+       width="1148.08"
+       height="347.98"
+       rx="173.99"
+       ry="173.99"
+       id="logo-F.Cu_pad-12" />
+    <circle
+       cx="0"
+       cy="0"
+       r="400"
+       id="logo-F.Cu_pad-13" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="background">
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-opacity:1"
+       id="path4397"
+       cx="88568.586"
+       cy="-101216.89"
+       rx="5362.2227"
+       ry="5362.2222" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="foreground"
+     style="display:inline">
+    <g
+       style="fill:#ffffff;stroke:currentColor"
+       transform="matrix(1.0000009,0,0,-1.0000008,-84.315041,-202412.96)"
+       id="g8">
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="85910.344"
+         y="-98762.398"
+         id="use10"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="85260.102"
+         y="-98762.398"
+         id="use12"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="84612.398"
+         y="-98762.398"
+         id="use14"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="83964.703"
+         y="-98762.398"
+         id="use16"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="83314.461"
+         y="-98762.398"
+         id="use18"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="82224.797"
+         y="-99852.062"
+         id="use20"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="82224.797"
+         y="-100502.3"
+         id="use22"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="82224.797"
+         y="-101150"
+         id="use24"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="82224.797"
+         y="-101797.7"
+         id="use26"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="82224.797"
+         y="-102447.94"
+         id="use28"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="83314.461"
+         y="-103537.6"
+         id="use30"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="83964.703"
+         y="-103537.6"
+         id="use32"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="84612.398"
+         y="-103537.6"
+         id="use34"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="85260.102"
+         y="-103537.6"
+         id="use36"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="85910.344"
+         y="-103537.6"
+         id="use38"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="87000"
+         y="-102447.94"
+         id="use40"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="87000"
+         y="-101797.7"
+         id="use42"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="87000"
+         y="-101150"
+         id="use44"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="87000"
+         y="-100502.3"
+         id="use46"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="87000"
+         y="-99852.062"
+         id="use48"
+         style="fill:#ffffff" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 85977.103,-99650.722 14.561,-2.16 14.279,-3.577 13.86,-4.959 13.307,-6.294 12.626,-7.568 11.823,-8.768 10.907,-9.886 9.886,-10.907 8.768,-11.823 7.568,-12.626 6.294,-13.307 4.959,-13.86 3.577,-14.279 2.16,-14.561 0.722,-14.703 0,-2700 -0.722,-14.7 -2.16,-14.56 -3.577,-14.28 -4.959,-13.86 -6.294,-13.31 -7.568,-12.63 -8.768,-11.82 -9.886,-10.91 -10.907,-9.88 -11.823,-8.77 -12.626,-7.57 -13.307,-6.29 -13.86,-4.96 -14.279,-3.58 -14.561,-2.16 -14.703,-0.72 -2700,0 -14.703,0.72 -14.561,2.16 -14.279,3.58 -13.86,4.96 -13.307,6.29 -12.626,7.57 -11.823,8.77 -10.907,9.88 -9.886,10.91 -8.768,11.82 -7.568,12.63 -6.294,13.31 -4.959,13.86 -3.577,14.28 -2.16,14.56 -0.722,14.7 0,2700 0.722,14.703 2.16,14.561 3.577,14.279 4.959,13.86 6.294,13.307 7.568,12.626 8.768,11.823 9.886,10.907 10.907,9.886 11.823,8.768 12.626,7.568 13.307,6.294 13.86,4.959 14.279,3.577 14.561,2.16 14.703,0.722 2700,0 14.703,-0.722 0,0"
+         id="path50"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="93885.539"
+         y="-98762.398"
+         id="use52"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="93235.297"
+         y="-98762.398"
+         id="use54"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="92587.602"
+         y="-98762.398"
+         id="use56"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="91939.898"
+         y="-98762.398"
+         id="use58"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="91289.656"
+         y="-98762.398"
+         id="use60"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="90200"
+         y="-99852.062"
+         id="use62"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="90200"
+         y="-100502.3"
+         id="use64"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="90200"
+         y="-101150"
+         id="use66"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="90200"
+         y="-101797.7"
+         id="use68"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="90200"
+         y="-102447.94"
+         id="use70"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="91289.656"
+         y="-103537.6"
+         id="use72"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="91939.898"
+         y="-103537.6"
+         id="use74"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="92587.602"
+         y="-103537.6"
+         id="use76"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="93235.297"
+         y="-103537.6"
+         id="use78"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-11"
+         x="93885.539"
+         y="-103537.6"
+         id="use80"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="94975.203"
+         y="-102447.94"
+         id="use82"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="94975.203"
+         y="-101797.7"
+         id="use84"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="94975.203"
+         y="-101150"
+         id="use86"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="94975.203"
+         y="-100502.3"
+         id="use88"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-12"
+         x="94975.203"
+         y="-99852.062"
+         id="use90"
+         style="fill:#ffffff" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 93952.303,-99650.722 14.561,-2.16 14.279,-3.577 13.86,-4.959 13.307,-6.294 12.626,-7.568 11.823,-8.768 10.907,-9.886 9.886,-10.907 8.768,-11.823 7.568,-12.626 6.294,-13.307 4.959,-13.86 3.577,-14.279 2.16,-14.561 0.722,-14.703 0,-2700 -0.722,-14.7 -2.16,-14.56 -3.577,-14.28 -4.959,-13.86 -6.294,-13.31 -7.568,-12.63 -8.768,-11.82 -9.886,-10.91 -10.907,-9.88 -11.823,-8.77 -12.626,-7.57 -13.307,-6.29 -13.86,-4.96 -14.279,-3.58 -14.561,-2.16 -14.703,-0.72 -2700,0 -14.703,0.72 -14.561,2.16 -14.279,3.58 -13.86,4.96 -13.307,6.29 -12.626,7.57 -11.823,8.77 -10.907,9.88 -9.886,10.91 -8.768,11.82 -7.568,12.63 -6.294,13.31 -4.959,13.86 -3.577,14.28 -2.16,14.56 -0.722,14.7 0,2700 0.722,14.703 2.16,14.561 3.577,14.279 4.959,13.86 6.294,13.307 7.568,12.626 8.768,11.823 9.886,10.907 10.907,9.886 11.823,8.768 12.626,7.568 13.307,6.294 13.86,4.959 14.279,3.577 14.561,2.16 14.703,0.722 2700,0 14.703,-0.722 0,0"
+         id="path92"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-13"
+         x="88000"
+         y="-102450"
+         id="use94"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-13"
+         x="89200"
+         y="-101170"
+         id="use96"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-13"
+         x="88550"
+         y="-101800"
+         id="use98"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-13"
+         x="88550"
+         y="-100500"
+         id="use100"
+         style="fill:#ffffff" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#logo-F.Cu_pad-13"
+         x="88000"
+         y="-99850"
+         id="use102"
+         style="fill:#ffffff" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:250;stroke:#ffffff;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 89912.4,-102447.94 -1910.34,0 -2.06,-2.06 m -1000,2.06 415.708,0 532.232,0 m 602.06,647.94 1360.1,0 2.3,2.3 m 0,647.7 -692.4,0 -20,-20 m -250,20 200,0 50,-50 m -2200,-597.7 1397.7,0 2.3,-2.3 m -1400,650 1950,0 m 962.4,647.7 -1410.1,0 -2.3,2.3 m -1500,-2.3 1497.7,0 2.3,2.3 m 1412.4,647.94 -1910.34,0 -2.06,2.06 m -1000,-2.06 947.94,0 52.06,52.06"
+         id="path104"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+    </g>
+  </g>
+</svg>
